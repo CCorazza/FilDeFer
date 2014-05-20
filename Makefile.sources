@@ -1,0 +1,6 @@
+SRC =	\
+		fdf.c \
+		ft_draw.c \
+		ft_drawline.c \
+		ft_keypress.c \
+		get_next_line.c
